@@ -59,8 +59,8 @@ hi Keyword         ctermfg=1
 hi Identifier      ctermfg=1
 hi Special         ctermfg=1
 
-hi Comment         ctermfg=0
-hi Ignore          ctermfg=0
+hi Comment         ctermfg=6
+hi Ignore          ctermfg=6
 
 hi Underlined      ctermfg=4   cterm=underline
 hi Type            ctermfg=4   cterm=bold
